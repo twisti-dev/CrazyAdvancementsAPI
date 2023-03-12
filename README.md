@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/twisti-dev/CrazyAdvancementsAPI.svg)](https://jitpack.io/#twisti-dev/CrazyAdvancementsAPI)
 # CrazyAdvancementsAPI
 
 
